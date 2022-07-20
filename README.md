@@ -1,3 +1,3 @@
 # odin-recipes
 
-To improve my programming skills 
+To improve my programming skills and be employable
